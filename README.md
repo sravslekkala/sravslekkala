@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sravslekkala
-- 👀 I’m interested in Data Science World
+- 👀 I’m interested in Data Analytics and Engineering World
 - 🌱 I’m currently learning ways of Data
 
 <!---
